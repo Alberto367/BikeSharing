@@ -7,28 +7,28 @@ The purpose of this project is to provide visualizations of how the bike sharing
 
 ## Results 
 ### Customer Types
-![](Resources/customer_types.png)
+![](resources/customer_types.png)
 Majority of users for New York City are subscribers rather than one time use customers.
 ### Users by Gender
-![](Resources/Users_by_Gender.png)
+![](resources/Users_by_Gender.png)
 In subscriptions male users are the by far the majority of consumers with 1,372,601 rides while in one time use customers all three groups are about even with unknown having the most rides.
 ### August Peak Hours
-![](Resources/August_Peak_Hours.png)
+![](resources/August_Peak_Hours.png)
 There are two peak times throughout the day one from 8am to 9am and the other from 5pm to 6pm.
 ### Checkout Time for Users
-![](Resources/checkout_time_users.png)
+![](resources/checkout_time_users.png)
 The majority of rides have a duration less than 20 minutes.
 ### Checkout Time by Gender
-![](Resources/checkout_time_gender.png)
+![](resources/checkout_time_gender.png)
 The majority of rides last less than 20 minutes for all gender categories male female and unknown.
 ### Trips by Weekday for Each Hour
-![](Resources/trips_per_hour.png)
+![](resources/trips_per_hour.png)
 The busiest hour throughout the week is 5pm and the busiest day is Saturday.
 ### Trips by Gender (Weekday per Hour)
-![](Resources/trips_by_gender.png)
+![](resources/trips_by_gender.png)
 Males have a strong trip to time correlation at times 8am and 5pm. Females have the same correlation but not as strong. Unknown does not appear to have any time of use correlation 
 ### User Trips by Gender by Weekday
-![](Resources/trips_by_usertype.png)
+![](resources/trips_by_usertype.png)
 One-time use customers have weak correlation between weekdays and gender. Subscribers are mostly male with their busiest day being Thursday. Very few unknown get subscriptions.
 
 ## Summary 
